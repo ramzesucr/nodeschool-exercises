@@ -1,0 +1,7 @@
+{
+  "name": "nodeschool",
+  "version": "1.0.0",
+  "description": "nodeschool.io implementation of exercises",
+  "author": "Kirill Ryabin",
+  "license": "MIT"
+}
